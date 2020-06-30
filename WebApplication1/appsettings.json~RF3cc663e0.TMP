@@ -1,0 +1,21 @@
+{
+  "ApplicationSettings": {
+    "JWT_Secret": "vehicleCheck_Yashi1999",
+    "client_URL": "http://localhost:4201"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "IdentityConnection": "Server=(localdb)\\MSSQLLocalDB;Database=VehicleCheck;Trusted_Connection=True;MultipleActiveResultSets=True;"
+  },
+  "Microsoft.Extensions.Configuration.FileExtensions": "1.0.0-*",
+  "Microsoft.Extensions.Configuration.Json": "1.0.0-rc2-final",
+
+}
+
